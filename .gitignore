@@ -1,0 +1,14 @@
+# Data folder and CSV files
+data/
+*.csv
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+.env
